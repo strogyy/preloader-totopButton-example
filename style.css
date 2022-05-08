@@ -20,7 +20,6 @@ section {
   height: 80vh;
 }
 .s1 {
-  background-color: rgb(54, 54, 114);
   background-image: url("https://source.unsplash.com/1920x1079");
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,21 +27,18 @@ section {
   background-attachment: fixed;
 }
 .s2 {
-  background-color: rgb(0, 255, 179);
   background-image: url("https://source.unsplash.com/1920x1076");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .s3 {
-  background-color: rgb(0, 174, 255);
   background-image: url("https://source.unsplash.com/1920x1075");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .s4 {
-  background-color: rgb(255, 136, 0);
   background-image: url("https://source.unsplash.com/1920x1074");
   background-repeat: no-repeat;
   background-size: cover;
