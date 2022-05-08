@@ -10,9 +10,14 @@ window.addEventListener("scroll", () => {
     button4Top.classList.remove("active");
   }
 });
+function hideScroll() {
+  document.body.style.overflow = "hidden";
+}
+hideScroll();
 
 var loader = document.querySelector(".preloader");
 
 window.addEventListener("load", () => {
   loader.style.display = "none";
+  document.body.style.overflow = "visible";
 });
